@@ -109,7 +109,7 @@ Logout()
 Getting Started :
 -----------------
 
-https://github.com/Govardhan-999/Project-P2-Online-Ration-Slot-Booking-System.git
+git clone https://github.com/Govardhan-999/Project-P2-Online-Ration-Slot-Booking-System.git cd my-project
 
 Usage :
 -------
